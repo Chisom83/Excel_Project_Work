@@ -1,5 +1,3 @@
-# Spital-Lab-Documentation
-
-## Project Title : Sales analysis 
+# Project Title : Bike Racks Sales analysis 
 
 ### Overview 
