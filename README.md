@@ -1,1 +1,1 @@
-# Spital-Lab-Class-Documentation
+# Spital-Lab-Documentation
