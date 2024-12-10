@@ -30,7 +30,7 @@ Microsoft Excel
  3. For visualization
 
 ### Steps followed 
- 1.Data cleaning: The raw data collected was first processed to ensure its integrity, consistency, and quality, setting a strong foundation for effective analysis and visualization.
+ 1. Data cleaning: The raw data collected was first processed to ensure its integrity, consistency, and quality, setting a strong foundation for effective analysis and visualization.
 - Data filtering and missing values: I began by addressing missing entries. For numerical fields such as quantity or age, I checked for outliers. If outliers were detected, I filled the blanks using the median or mode; if no outliers were present, I filled them with the average value.
 - For categorical variables like gender, country, or state, I utilized a nested IF function to logically fill in the blanks based on existing data.
 - Correcting Misspellings: I conducted a review of the dataset to identify any misspelled words or inconsistencies in text fields, replacing incorrect terms with the appropriate ones to maintain uniformity.
@@ -42,3 +42,8 @@ Microsoft Excel
 - I created a variety of charts, including bar charts, column charts, pie charts and line charts which helped bring the data to life, making it easier to spot trends, compare metrics, and uncover insights that support strategic decision-making. I also added slicers, allowing for dynamic filtering of the data, making it easier to interact with the information and drill down into specific segments as needed.
 3. Data visualization: In this phase, I crafted an interactive dashboard that brought together all the essential charts, slicers, KPIs, and the business name, arranging each element thoughtfully to ensure clarity and impact. This dashboard provided a one-stop view of the data, making it easy to spot key trends and business challenges at a glance.
 - With a clear view of the business’s pain points, I was able to provide actionable recommendations aimed at addressing these areas and drive growth. The dashboard wasn’t just a set of visuals; but a tool designed to empower decision-making, transforming data into insights and strategies that can elevate the business to the next level.
+
+## Data Visualization and Insight
+
+#### Revenue Distribution by Region
+"To visualize the data, I created a pivtot table to summarize the revenue by region, which was then transformed into a chart for better clarity and presentation."
