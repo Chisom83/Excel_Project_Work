@@ -20,7 +20,8 @@ and target specific regions for promotional campaigns to boost sales in high-rev
 - Order Quantity: The total number of units sold, broken down by product type and customer demographic.
 - Total Profit: The earnings after deducting the cost of goods sold (COGS) and other operating expenses.
 
-### Data Source 
+### Data Source
+The dataset used for this analysis was obtained from excel and can be accessedvuing this link. [Download Here](https://www.microsoft.com)
 
 ### Tool used 
 Microsoft Excel 
