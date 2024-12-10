@@ -47,3 +47,6 @@ Microsoft Excel
 
 #### Revenue Distribution by Region
 "To visualize the data, I created a pivtot table to summarize the revenue by region, which was then transformed into a chart for better clarity and presentation."
+
+![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
+
