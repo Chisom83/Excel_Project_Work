@@ -48,6 +48,28 @@ Microsoft Excel
 #### Revenue Distribution by Region
 "To visualize the data, I created a pivtot table to summarize the revenue by region, which was then transformed into a chart for better clarity and presentation."
 
+From the pivot table it is seen that United State generate the higest revenue follweed by Canada,France,Australia,France and United Kingdom generating the lowest revenue. 
+
+#### Analyzing it down to the state
+- United State
+Having three state where this business run California generates the higest revenue with the total of $129,840 and Kentucky generates the lowest revenue of $240.
+
+- Canada
+Having two state where the business run British Columbia generates the higest revenue of $99,000 and Alberta generate the lowest revenue of $2,640.
+
+- France
+having ten state where the business run Nord generates the higest revenue of $31,304 and Loir et Cher generates the lowest revenue of $1,440.
+
+- Australia
+Having four states where the business run New South Wales generates the higest revenue of $25,200 and South Australia generates the lowest revenue of $10,080.
+
+- Germany
+Having five states where the business run, Bayern generates the higest revenue of $17,166 and Hamburg generates the lowest revenue of $5,280.
+
+- United Kingdom
+Lastly this state has only one state the business is running which is England and it generates a total of $49,080.
+
+
 ![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
 
 ![image](https://github.com/user-attachments/assets/889f4c82-7998-4b94-bf59-ba67572c624e)
