@@ -21,7 +21,7 @@ and target specific regions for promotional campaigns to boost sales in high-rev
 - Total Profit: The earnings after deducting the cost of goods sold (COGS) and other operating expenses.
 
 ### Data Source
-The dataset used for this analysis was obtained from excel and can be accessedvuing this link. [Download Here](https://www.microsoft.com)
+The dataset used for this analysis was obtained from excel and can be accessed using this link. [Download Here](https://www.microsoft.com)
 
 ### Tool used 
 Microsoft Excel 
@@ -36,43 +36,68 @@ Microsoft Excel
 - Correcting Misspellings: I conducted a review of the dataset to identify any misspelled words or inconsistencies in text fields, replacing incorrect terms with the appropriate ones to maintain uniformity.
 - Standardizing Formats: I ensured that all relevant fields, such as Revenue, unit_price and dates, were formatted consistently to facilitate smooth analysis.
 - Sorting the Data: I organized the data according to relevant criteria, whether alphabetically (A to Z or Z to A) or chronologically (from oldest to newest or vice versa), to enhance readability and trend identifications.
-- Removing Duplicates: I removed any duplicate records to maintain data accuracy and integrity.
+- Removing Duplicates: I removed duplicate records to maintain data accuracy and integrity.
 -Structuring for Analysis: Finally, I converted the cleaned data into a structured table format, making it ready for analysis using pivot tables.
 2. Data analysis: In this phase, I leveraged pivot tables in Excel to summarize and analyze the data in alignment with key performance indicators (KPIs) and specific business requirements, always keeping the broader business objectives in mind. I used filters where needed to ensure the analysis was tailored and focused.
 - I created a variety of charts, including bar charts, column charts, pie charts and line charts which helped bring the data to life, making it easier to spot trends, compare metrics, and uncover insights that support strategic decision-making. I also added slicers, allowing for dynamic filtering of the data, making it easier to interact with the information and drill down into specific segments as needed.
 3. Data visualization: In this phase, I crafted an interactive dashboard that brought together all the essential charts, slicers, KPIs, and the business name, arranging each element thoughtfully to ensure clarity and impact. This dashboard provided a one-stop view of the data, making it easy to spot key trends and business challenges at a glance.
 - With a clear view of the business’s pain points, I was able to provide actionable recommendations aimed at addressing these areas and drive growth. The dashboard wasn’t just a set of visuals; but a tool designed to empower decision-making, transforming data into insights and strategies that can elevate the business to the next level.
 
-## Data Visualization and Insight
+## Data Visualization and Insights
+"To explore the dataset, I utilize a pivtot table to summarize the KPI and Business Requirement which was then transformed into a chart for better clarity and presentation."
 
 #### Revenue Distribution by Region
-"To visualize the data, I created a pivtot table to summarize the revenue by region, which was then transformed into a chart for better clarity and presentation."
-
-From the pivot table it is seen that United State generate the higest revenue follweed by Canada,France,Australia,France and United Kingdom generating the lowest revenue. 
-
-#### Analyzing it down to the state
-- United State
-Having three state where this business run California generates the higest revenue with the total of $129,840 and Kentucky generates the lowest revenue of $240.
-
-- Canada
-Having two state where the business run British Columbia generates the higest revenue of $99,000 and Alberta generate the lowest revenue of $2,640.
-
-- France
-having ten state where the business run Nord generates the higest revenue of $31,304 and Loir et Cher generates the lowest revenue of $1,440.
-
-- Australia
-Having four states where the business run New South Wales generates the higest revenue of $25,200 and South Australia generates the lowest revenue of $10,080.
-
-- Germany
-Having five states where the business run, Bayern generates the higest revenue of $17,166 and Hamburg generates the lowest revenue of $5,280.
-
-- United Kingdom
-Lastly this state has only one state the business is running which is England and it generates a total of $49,080.
-
 
 ![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
 
+
+The United State generates the highest revenue followed by Canada, France, Australia, Germany and finally United Kingdom, which records the lowest revenue. 
+
+##### State-Level Analysis
+
+- United State (3 states)
+
+California generates the higest revenue of $129,840 and Kentucky generates the lowest revenue of $240.
+
+- Canada (2 states)
+
+British Columbia generates the higest revenue of $99,000 and Alberta generate the lowest revenue of $2,640.
+
+- France (10 states)
+
+Nord generates the higest revenue of $31,304 and Loir et Cher generates the lowest revenue of $1,440.
+
+- Australia (4 states)
+
+New South Wales generates the higest revenue of $25,200 and South Australia generates the lowest revenue of $10,080.
+
+- Germany (5 states)
+
+Bayern generates the higest revenue of $17,166 and Hamburg generates the lowest revenue of $5,280.
+
+- United Kingdom (1 state)
+
+England and it generates a total revenue of $49,080.
+
+
 ![image](https://github.com/user-attachments/assets/889f4c82-7998-4b94-bf59-ba67572c624e)
+
+### Inference:
+
+- It seen that California and British Columbia genetate the most revenue which could be because of their strong emphasis of onenvironmental sustainability, healthy lifestyle and outdoor activites and the get bick rack to create space in parking lots.
+- high revenue in California and British Columbia suggest that these regions have an effective marketing strategies and stronge customer base.
+- Lower revenue in Kentucky and Loir et Cher could indicate poor customers base because of lower market penetration or ineffective strategies in these areas.
+
+### Conculsion
+
+- The United State and Canada are the largest revenue contributors in this businss due to its high performing states making it the leading region in this business.
+- United state which is the lowest performing region because the business only operates in one state.
+
+### Recommendation
+- Some underperforming regions and states needs more attention
+
+
+Regions already striving should be socked up more like United State and Canada etc
 
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
