@@ -90,11 +90,14 @@ England and it generates a total revenue of $49,080.
 
 ### Conculsion
 
-- The United State and Canada are the largest revenue contributors in this businss due to its high performing states making it the leading region in this business.
+- The United State and Canada are the largest revenue contributors in this businss due to some of its high performing states making it the leading region in this business.
 - United state which is the lowest performing region because the business only operates in one state.
 
 ### Recommendation
-- Some underperforming regions and states needs more attention
+
+- More investment should be stocked in high performing regions and they should not relax in their marketing.
+- In underperforming region more market research should be carried inorder to pin points what actually is the cause and make necessary amendments. Marketing strategy should also be increased.
+- in regions like the United States there should be expansion inorder to enhance it untapped potentials .
 
 
 Regions already striving should be socked up more like United State and Canada etc
