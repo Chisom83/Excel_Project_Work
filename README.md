@@ -84,23 +84,23 @@ England and it generates a total revenue of $49,080.
 
 ### Inference:
 
-- It seen that California and British Columbia genetate the most revenue which could be because of their strong emphasis of onenvironmental sustainability, healthy lifestyle and outdoor activites and the get bick rack to create space in parking lots.
-- high revenue in California and British Columbia suggest that these regions have an effective marketing strategies and stronge customer base.
-- Lower revenue in Kentucky and Loir et Cher could indicate poor customers base because of lower market penetration or ineffective strategies in these areas.
+- California and British Columbia genetate the most revenue, likely due to their strong focus on on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
+- The high revenue in most regions suggest effective marketing strategies and stronge customer base.
+- Also, lower revenue in Kentucky and Loir et Cher shows poor market penetration,weaker customers bases and ineffective strategies.
 
 ### Conculsion
 
-- The United State and Canada are the largest revenue contributors in this businss due to some of its high performing states making it the leading region in this business.
-- United state which is the lowest performing region because the business only operates in one state.
+- The United State and Canada are the largest revenue contributors, driven by its high performing states making them key region for this business.
+- United Kingdom is the lowest performing region overall because business operations are limited to a single state.
 
 ### Recommendation
 
-- More investment should be stocked in high performing regions and they should not relax in their marketing.
-- In underperforming region more market research should be carried inorder to pin points what actually is the cause and make necessary amendments. Marketing strategy should also be increased.
-- in regions like the United States there should be expansion inorder to enhance it untapped potentials .
+- Boost Investment: More resources should be focused on high performing regions to sustain growth and further strengthen their market presence.
+- Market Research: Research should be thoroughly conducted in underperforming region  to identify and address issuses hindering growth.
+- Enhanced Marketing Effort: After thorough research identifying marketing strategy as the key issue, increased marketing efforts should be implemented in underperforming regions to improve visibility,enhance customer engagement and drive sales growth. 
+- Strategic Expansion: The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
 
 
-Regions already striving should be socked up more like United State and Canada etc
 
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
