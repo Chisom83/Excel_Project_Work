@@ -84,7 +84,7 @@ England and it generates a total revenue of $49,080.
 
 ### Inference:
 
-- California and British Columbia genetate the most revenue, likely due to their strong focus on on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
+- California and British Columbia generate the most revenue, likely due to their strong focus on on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
 - The high revenue in most regions suggest effective marketing strategies and stronge customer base.
 - Also, lower revenue in Kentucky and Loir et Cher shows poor market penetration,weaker customers bases and ineffective strategies.
 
@@ -101,8 +101,11 @@ England and it generates a total revenue of $49,080.
 - Strategic Expansion: The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
 
 
+#### Demographic by Age Group
 
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
+
+
 
 ![image](https://github.com/user-attachments/assets/c8128e08-285e-4933-acfd-9c5612026014)
 
