@@ -105,9 +105,30 @@ England and it generates a total revenue of $49,080.
 
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
-
+The age group our product appel to most is the Adult follwed by the young adult then youth. in gender analysis the male patronize more than female. 
 
 ![image](https://github.com/user-attachments/assets/c8128e08-285e-4933-acfd-9c5612026014)
+
+#### Inference
+- From reserach the male patronize the most because they are more into outdoor activities like cycling and they need bike rack for easy carriage and transportation of multiple bike. they also are the most patronizes because they purchase for the family or group outing when multiple bikes needs to be purchased.
+- adult purchase the more as seen in the analysis because the are finacially stable and have more disposable income to invest in accessories like bike rack, which are often seen as non essential for young adult with tight budget.
+- Adult purchase more because they are likely to own a vehicles which is a prerequisite for needing bike racks,while young adult and youth might not own cars or rely on public transport.
+- Also adult esspecially those with families are more likely  to use bike rack for easy transportation of multiple bike for family outingor vacation  which is lees commmon with young people who may cycle locally.
+
+ #### Conculsion
+ _ From the chart the male patronize the most than the female with a percentage difference of 13%.
+ - Most young people dont really see the need of this bike accessorie (bike rack) as they do not have multiple bike to transport.
+ - The adult knowns the important of bike racks as they can get it for easy transportation of the family bike during outing and the see the need to invest in it  for proper transportation using their cars.
+
+#### Recommendation regarding to marketing strategy
+    _ 
+- to talior marketing strategies for the key demography which is the adult they should utilize facebook,intagram and email marketing using captivating headline like "perfect for family cycling tips" and highlighting the practicality and convenience for famil outing and fitness activities for the adult and partener with influencers and also they can offer holiday bundle deals. and video to show how to make use of it and to build more buyers in this group.
+- Young Adult and youth which is the emerging market or buyers can also utilize tiktok, instagram and youtube  with short and captivating video  showcasing the product useability and also use captivating healine like " affordable solution for your cycling adventures" and also have a flexible payment paln so that all will  be able to buy.
+- for men they should utilize sports website, cycling commmunities using marketing serach engine like "best bike racks for mountainbikes etc. also working with male outdoor sports influencers or cycling groups to promote and encourage sales.
+- for women for the marketing strategy they can utilize pinterest, instagram,facebook and blogs about fitness or family activities paterning with women in fitnesss influencers and using headline like " Effortless bike transportation" to generate sales.
+
+-in all social media will go a long in the marketing of this bike rack seeing that the different demography can be reach  using this with captivating videos and content having catchy headline. in general they could also make a video on hw to install a bike rack addressing  commmon concern for each demography. run trageted ads to reach each gender and demography.
+
 
 
 
