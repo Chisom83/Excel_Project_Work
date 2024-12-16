@@ -46,7 +46,7 @@ Microsoft Excel
 ## Data Visualization and Insights
 "To explore the dataset, I utilize a pivtot table to summarize the KPI and Business Requirement which was then transformed into a chart for better clarity and presentation."
 
-#### Revenue Distribution by Region
+1. #### Revenue Distribution by Region
 
 ![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
 
@@ -101,38 +101,60 @@ England and it generates a total revenue of $49,080.
 - Strategic Expansion: The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
 
 
-#### Demographic by Age Group
+2. ### Demographic by Age Group
 
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
-The age group our product appel to most is the Adult follwed by the young adult then youth. in gender analysis the male patronize more than female. 
+- Age Group Appeal: The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
+
+ - Gender Insight: Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
+
 
 ![image](https://github.com/user-attachments/assets/c8128e08-285e-4933-acfd-9c5612026014)
 
-#### Inference
-- From reserach the male patronize the most because they are more into outdoor activities like cycling and they need bike rack for easy carriage and transportation of multiple bike. they also are the most patronizes because they purchase for the family or group outing when multiple bikes needs to be purchased.
-- adult purchase the more as seen in the analysis because the are finacially stable and have more disposable income to invest in accessories like bike rack, which are often seen as non essential for young adult with tight budget.
-- Adult purchase more because they are likely to own a vehicles which is a prerequisite for needing bike racks,while young adult and youth might not own cars or rely on public transport.
-- Also adult esspecially those with families are more likely  to use bike rack for easy transportation of multiple bike for family outingor vacation  which is lees commmon with young people who may cycle locally.
+### Inference
+#### Adults customers
+- Adults purchase more due to their finacial stability and disposable income, which allows them to invest in non-essential accessorieslike bike racks.
+- Adults with families are likely to purchase bike racks for transporting mutiple bikes for family outings,vacations and fitness activites.
 
- #### Conculsion
- _ From the chart the male patronize the most than the female with a percentage difference of 13%.
- - Most young people dont really see the need of this bike accessorie (bike rack) as they do not have multiple bike to transport.
- - The adult knowns the important of bike racks as they can get it for easy transportation of the family bike during outing and the see the need to invest in it  for proper transportation using their cars.
+#### Young Adults and Youth
+-  Young adults purchase more than the youths due to vehicles ownership, a key prerequisite for bike racks use. 
+- Youths cycle locally, lack finacial stabilityand often do not own vehicles reducingtheir need for bike racks.
 
-#### Recommendation regarding to marketing strategy
-    _ 
-- to talior marketing strategies for the key demography which is the adult they should utilize facebook,intagram and email marketing using captivating headline like "perfect for family cycling tips" and highlighting the practicality and convenience for famil outing and fitness activities for the adult and partener with influencers and also they can offer holiday bundle deals. and video to show how to make use of it and to build more buyers in this group.
-- Young Adult and youth which is the emerging market or buyers can also utilize tiktok, instagram and youtube  with short and captivating video  showcasing the product useability and also use captivating healine like " affordable solution for your cycling adventures" and also have a flexible payment paln so that all will  be able to buy.
-- for men they should utilize sports website, cycling commmunities using marketing serach engine like "best bike racks for mountainbikes etc. also working with male outdoor sports influencers or cycling groups to promote and encourage sales.
-- for women for the marketing strategy they can utilize pinterest, instagram,facebook and blogs about fitness or family activities paterning with women in fitnesss influencers and using headline like " Effortless bike transportation" to generate sales.
+##### Male Customers
+The male gender are more engaged in outdoor activities like cycling and require bike racks for easy transportation of multiple bikes, contributing to higher patronage.
 
--in all social media will go a long in the marketing of this bike rack seeing that the different demography can be reach  using this with captivating videos and content having catchy headline. in general they could also make a video on hw to install a bike rack addressing  commmon concern for each demography. run trageted ads to reach each gender and demography.
+#### Conclusion 
+ - Male customers dominate with 13% higher patronage, reflecting their outdoor activity interest. 
+ - Adult invest the most in bike racks for pratical and family-oriented use cases, recognizing their importances for outing and vacations.
+ - The youth  demographics see less value in bike racks due to budget constraintsand limited need for transporting bikes.
 
+#### Recommendation 
+Based on marketing strategy to different age group and gender:
 
+i. #### Marketing for adults
 
+- Leverage platforms like facebook, instagram, and email markerting  with captivating headlines like "Perfect for Family Cycling Tips", highlighting the product practicality and convenience for family outing and fitness activities.
+- Collaborates with influencers to promote the product and offer offer holiday bundle deals.
 
+ ii. #### Targeting Young Adults and Youths
+- Focus more on platforms like TikTok, Instagram and YouTube to showcase the product's usability with engaging content.
+- Use captivating headlines like "Affordable Solution for Cycling Adventure" and introduce flexible payment plans to attract budget-conscious buyers.
 
+iii . #### Strategy for Male Demographic
+- Utilize sports websites, cycling communities and using  serach engine marketing like "Best Bike Rack for Mountain Bikes".
+- Collaborate with male outdoor sports influencers and cycling to boost sales.
+
+ iv. #### Strategy for Female Demographic
+- Leverage platforms like pinterest, instagram and Facebook to share fitness content.
+- partner with female influencers in sports and outdoor activites, using headlines like "Effortless Bike Transportation" to appeal to women.
+
+ v. #### General Social Media Strategy
+- Develop engaging video content demonstratng how to use bike racks, addressing common concern for different demographics.
+- Run targeted ads for different age group and gender, ensuring the content appeal to their specific needs.
+
+ #### Key Takeaway
+ Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
 
 
