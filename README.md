@@ -158,6 +158,7 @@ iii . #### Strategy for Male Demographic
 
  ![image](https://github.com/user-attachments/assets/d6ac089b-f4e0-4565-946a-c21aef256bf8)
 
+![image](https://github.com/user-attachments/assets/a1c6ae1e-224d-433f-8ab8-a55ab5dcc5bf)
 
  
 
