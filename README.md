@@ -156,12 +156,28 @@ iii . #### Strategy for Male Demographic
  #### Key Takeaway
  Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
- 
+3. ### Product Popularity
+
+The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
 
  ![image](https://github.com/user-attachments/assets/bc7ab443-2f45-44e4-864c-8858d5b13638)
 
+ #### Inference
+- Hitch Rack 4 bike appals more to customers because it has the capacity to carry mutiple bikes, making it ideal for families who needsolution for transporting their bikes effeciently.
 
- ![image](https://github.com/user-attachments/assets/d6ac089b-f4e0-4565-946a-c21aef256bf8)
+#### Conclusion
+- Hitch Rack 4 bike is the most in demand and best selling product,generating the highest revenue and profit for the business.
+- The significant gap in sales volume between Hitch Rack 4 bike and other models shows its popularity among customers.
+
+#### Recommendation
+- Increase inventory and investment in Hitch Rack 4 bike to capitalize on its strong demand and maximize revenue generation while other bike models should be reduced in its inventory.
+- Hitch rack 4 bike should be promoted more while exploring other strategy to boost the visibility and sales of other product.
+- Indepth reserach should be conducted to understand why Hitch rack 4 bike outperforms other bike rack models then use the insight as a guide to future product investment and discountinue underperforming models.
+
+#### Key Takeaway
+Hitch Rack 4 bike is the business most popular and profitable product and focusing more on inventory management and strategy that will derive sales and growth increase its popularity the more and also trying out new ways to improve sales and visibility of other models.
+
+
 
  
 
