@@ -178,7 +178,6 @@ The sales performance of the various bike racks models shows a significant diffe
 Hitch Rack 4 bike is the business most popular and profitable product and focusing more on inventory management and strategy that will derive sales and growth increase its popularity the more and also trying out new ways to improve sales and visibility of other models.
 
 
-Screenshot 2024-12-17 161236.png
  
 
 
