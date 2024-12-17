@@ -156,12 +156,14 @@ iii . #### Strategy for Male Demographic
  #### Key Takeaway
  Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
- Screenshot 2024-12-17 161236.png
+ 
 
  ![image](https://github.com/user-attachments/assets/bc7ab443-2f45-44e4-864c-8858d5b13638)
 
 
  ![image](https://github.com/user-attachments/assets/d6ac089b-f4e0-4565-946a-c21aef256bf8)
+
+ 
 
 
 
