@@ -1,8 +1,12 @@
 # Project Title: Bike Racks Sales Analysis 
 
-## Overview
+[ Overview](#overview)
 
+## Overview
+-----
 This project focuses on analyzing sales and marketing strategies for bike rack sales, with a strong emphasis on key metrics and specific business requirements. By leveraging data-driven insights, the aim is to provide well-informed, actionable strategies that enhance inventory management and boost overall sales. Through this analysis, we strive to uncover valuable trends and opportunities that will support more effective marketing and inventory decisions, ensuring sustained growth in bike rack sales.
+
+## Table of Content
 
 ### Objectives 
 
@@ -35,7 +39,7 @@ Microsoft Excel
 - For categorical variables like gender, country, or state, I utilized a nested IF function to logically fill in the blanks based on existing data.
 - Correcting Misspellings: I conducted a review of the dataset to identify any misspelled words or inconsistencies in text fields, replacing incorrect terms with the appropriate ones to maintain uniformity.
 - Standardizing Formats: I ensured that all relevant fields, such as Revenue, unit_price and dates, were formatted consistently to facilitate smooth analysis.
-- Sorting the Data: I organized the data according to relevant criteria, whether alphabetically (A to Z or Z to A) or chronologically (from oldest to newest or vice versa), to enhance readability and trend identifications.
+- Sorting the Data: I organized the data according to relevant criteria, alphabetically (A to Z or Z to A) or chronologically (from oldest to newest or vice versa), to enhance readability and trend identifications.
 - Removing Duplicates: I removed duplicate records to maintain data accuracy and integrity.
 -Structuring for Analysis: Finally, I converted the cleaned data into a structured table format, making it ready for analysis using pivot tables.
 2. Data analysis: In this phase, I leveraged pivot tables in Excel to summarize and analyze the data in alignment with key performance indicators (KPIs) and specific business requirements, always keeping the broader business objectives in mind. I used filters where needed to ensure the analysis was tailored and focused.
@@ -54,7 +58,7 @@ The store generated a total revenue of $101,720,343, representing the cumulative
 The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
 
 1. #### Revenue Distribution by Region
-
+-----
 ![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
 
 
@@ -91,7 +95,7 @@ England and it generates a total revenue of $49,080.
 
 ### Inference:
 
-- California and British Columbia generate the most revenue, likely due to their strong focus on on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
+- California and British Columbia generate the most revenue, likely due to their strong focus on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
 - The high revenue in most regions suggest effective marketing strategies and stronge customer base.
 - Also, lower revenue in Kentucky and Loir et Cher shows poor market penetration,weaker customers bases and ineffective strategies.
 
@@ -109,7 +113,7 @@ England and it generates a total revenue of $49,080.
 
 
 2. ### Demographic by Age Group
-
+-----
 ![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
 - Age Group Appeal: The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
@@ -121,14 +125,14 @@ England and it generates a total revenue of $49,080.
 
 ### Inference
 #### Adults customers
-- Adults purchase more due to their finacial stability and disposable income, which allows them to invest in non-essential accessorieslike bike racks.
+- Adults purchase more due to their finacial stability and disposable income, which allows them to invest in biking accessories like bike racks.
 - Adults with families are likely to purchase bike racks for transporting mutiple bikes for family outings,vacations and fitness activites.
 
 #### Young Adults and Youth
 -  Young adults purchase more than the youths due to vehicles ownership, a key prerequisite for bike racks use. 
-- Youths cycle locally, lack finacial stabilityand often do not own vehicles reducingtheir need for bike racks.
+- Youths cycle locally, lack finacial stabilityand often do not own vehicles reducing their need for bike racks.
 
-##### Male Customers
+#### Male Customers
 The male gender are more engaged in outdoor activities like cycling and require bike racks for easy transportation of multiple bikes, contributing to higher patronage.
 
 #### Conclusion 
@@ -139,24 +143,24 @@ The male gender are more engaged in outdoor activities like cycling and require 
 #### Recommendation 
 Based on marketing strategy to different age group and gender:
 
-i.#### Marketing for adults
+#### Marketing for adults
 
 - Leverage platforms like facebook, instagram, and email markerting  with captivating headlines like "Perfect for Family Cycling Tips", highlighting the product practicality and convenience for family outing and fitness activities.
-- Collaborates with influencers to promote the product and offer offer holiday bundle deals.
+- Collaborates with influencers to promote the product and offer holiday bundle deals.
 
- ii.#### Targeting Young Adults and Youths
+#### Targeting Young Adults and Youths
 - Focus more on platforms like TikTok, Instagram and YouTube to showcase the product's usability with engaging content.
 - Use captivating headlines like "Affordable Solution for Cycling Adventure" and introduce flexible payment plans to attract budget-conscious buyers.
 
-iii.#### Strategy for Male Demographic
+#### Strategy for Male Demographic
 - Utilize sports websites, cycling communities and using  serach engine marketing like "Best Bike Rack for Mountain Bikes".
 - Collaborate with male outdoor sports influencers and cycling to boost sales.
 
- iv.#### Strategy for Female Demographic
+#### Strategy for Female Demographic
 - Leverage platforms like pinterest, instagram and Facebook to share fitness content.
 - partner with female influencers in sports and outdoor activites, using headlines like "Effortless Bike Transportation" to appeal to women.
 
- v.#### General Social Media Strategy
+#### General Social Media Strategy
 - Develop engaging video content demonstratng how to use bike racks, addressing common concern for different demographics.
 - Run targeted ads for different age group and gender, ensuring the content appeal to their specific needs.
 
@@ -164,13 +168,13 @@ iii.#### Strategy for Male Demographic
  Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
 3. ### Product Popularity
-
+-----
 The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
 
  ![image](https://github.com/user-attachments/assets/bc7ab443-2f45-44e4-864c-8858d5b13638)
 
- #### Inference
-- Hitch Rack 4 bike appals more to customers because it has the capacity to carry mutiple bikes, making it ideal for families who needsolution for transporting their bikes effeciently.
+ ### Inference
+- Hitch Rack 4 bike appals more to customers because it has the capacity to carry mutiple bikes, making it ideal for families who need solution for transporting their bikes effeciently.
 
 #### Conclusion
 - Hitch Rack 4 bike is the most in demand and best selling product,generating the highest revenue and profit for the business.
@@ -185,13 +189,13 @@ The sales performance of the various bike racks models shows a significant diffe
 Hitch Rack 4 bike is the business most popular and profitable product and focusing more on inventory management and strategy that will derive sales and growth increase its popularity the more and also trying out new ways to improve sales and visibility of other models.
 
 4. ### Sales Seasonality
-
+------
 The sales of bike racks vary across state and years, but the overall trend highlights June as the month with the higest sales, followed by May, March, September, July and other months while Apirl records the lowest sales. 
 A line chart was used to analyze sale trend over the months, highlighting peak and off-peak periods.
 
 #### Inference 
 - High sales in spring and summer alings with holiday and favourable weather, which encourages outdoor activites like cycling.
-- The trends reveal that external factorssuch as weather and holidays strongly influence purchasing behaviour.
+- The trends reveal that external factors such as weather and holidays strongly influence purchasing behaviour.
 
 #### Conclusion 
 - Spring and summer, particularly June and May are the peak sales periods due to holidays and optimal weather condition for cycling.
@@ -200,7 +204,14 @@ A line chart was used to analyze sale trend over the months, highlighting peak a
 #### Recommendation
 #### Inventory Management
 - Peak Seasons: Increase inventory during high demand month to meet customers needs and avoid lost sales.
-- Low Seasons: Reduce inventory during low demand month to avoid overstocking and avoid loss.
+- Low Seasons: Reduce inventory during low demand month to avoid overstocking and
+-
+-
+-
+-
+-
+-
+-    loss.
 #### Marketing Strategy
 - organizing promotional campaing during holidays and cycling season to boost sales.
 #### Key Takeaway
