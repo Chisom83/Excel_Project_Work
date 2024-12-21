@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing sales and marketing strategies for bike rack sales, with a strong emphasis on key metrics and specific business requirements. By leveraging data-driven insights, the aim is to provide well-informed, actionable strategies that enhance inventory management and boost overall sales. Through this analysis, we strive to uncover valuable trends and opportunities that will support more effective marketing and inventory decisions, ensuring sustained growth in both bike rack and accessory sales.
+This project focuses on analyzing sales and marketing strategies for bike rack sales, with a strong emphasis on key metrics and specific business requirements. By leveraging data-driven insights, the aim is to provide well-informed, actionable strategies that enhance inventory management and boost overall sales. Through this analysis, we strive to uncover valuable trends and opportunities that will support more effective marketing and inventory decisions, ensuring sustained growth in bike rack sales.
 
 ### Objectives 
 
@@ -10,7 +10,7 @@ This project focuses on analyzing the following business problem
 
 - Revenue Distribution by Region: Analyze which countries and states generate the most revenue for bike rack sales.
 and target specific regions for promotional campaigns to boost sales in high-revenue areas and address underperforming regions for improvements.
-- Demographic by age group: Segment customers into eg(less than 25yrs as "Youth", 24-35yrs "Young Adult", more than 35yrs "Adult" to know which age group patronize the most and tailor marketing strategies to target specific age groups and genders, optimizing product appeal for the key demographic segments.
+- Demographic by age group: Segment customers into age groups eg(less than 25yrs as "Youth", 24-35yrs "Young Adult", more than 35yrs "Adult" to know which age group patronize the most and tailor marketing strategies to target specific age groups and genders, optimizing product appeal for the key demographic segments.
 - Product Popularity: Assess the performance of different models of bike racks (e.g., "Hitch Rack - 4-Bike") in terms of sales volume. Inorder to refine product offerings, adjust inventory, and promote best-selling items to maximize profit.
 - Sales Seasonality: Analyze trends in bike rack sales across different times of the year and correlate them with external factors like holidays or cycling season, thereby planning inventory and marketing efforts according to seasonal peaks and troughs, ensuring sufficient stock during high-demand periods and reducing excess inventory during low-demand months.
 
@@ -30,7 +30,7 @@ Microsoft Excel
  3. For visualization
 
 ### Steps followed 
- 1. Data cleaning: The raw data collected was first processed to ensure its integrity, consistency, and quality, setting a strong foundation for effective analysis and visualization.
+ 1. Data cleaning: The raw data collected was first cleaned to ensure its integrity, consistency, and quality, setting a strong foundation for effective analysis and visualization.
 - Data filtering and missing values: I began by addressing missing entries. For numerical fields such as quantity or age, I checked for outliers. If outliers were detected, I filled the blanks using the median or mode; if no outliers were present, I filled them with the average value.
 - For categorical variables like gender, country, or state, I utilized a nested IF function to logically fill in the blanks based on existing data.
 - Correcting Misspellings: I conducted a review of the dataset to identify any misspelled words or inconsistencies in text fields, replacing incorrect terms with the appropriate ones to maintain uniformity.
