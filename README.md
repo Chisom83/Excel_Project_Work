@@ -9,6 +9,10 @@
 
 [Data Visualization and Insights](#data-visualization-and-insights)
 
+[Dashboard](#dashboard)
+
+[Conclusion](#conclusion)
+
 ## Overview
 -----
 This project focuses on analyzing sales and marketing strategies for bike rack sales, with a strong emphasis on key metrics and specific business requirements. By leveraging data-driven insights, the aim is to provide well-informed, actionable strategies that enhance inventory management and boost overall sales. Through this analysis, we strive to uncover valuable trends and opportunities that will support more effective marketing and inventory decisions, ensuring sustained growth in bike rack sales.
@@ -209,14 +213,7 @@ A line chart was used to analyze sale trend over the months, highlighting peak a
 #### Recommendation
 #### Inventory Management
 - Peak Seasons: Increase inventory during high demand month to meet customers needs and avoid lost sales.
-- Low Seasons: Reduce inventory during low demand month to avoid overstocking and
--
--
--
--
--
--
--    loss.
+- Low Seasons: Reduce inventory during low demand month to avoid overstocking and loss.
 #### Marketing Strategy
 - organizing promotional campaing during holidays and cycling season to boost sales.
 #### Key Takeaway
