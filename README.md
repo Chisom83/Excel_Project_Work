@@ -159,12 +159,12 @@ Based on marketing strategy to different age group and gender:
 - Use captivating headlines like "Affordable Solution for Cycling Adventure" and introduce flexible payment plans to attract budget-conscious buyers.
 
 #### Strategy for Male Demographic
-- Utilize sports websites, cycling communities and using  serach engine marketing like "Best Bike Rack for Mountain Bikes".
+- Utilize sports websites, cycling communities and using  search engine marketing like "Best Bike Rack for Mountain Bikes".
 - Collaborate with male outdoor sports influencers and cycling to boost sales.
 
 #### Strategy for Female Demographic
 - Leverage platforms like pinterest, instagram and Facebook to share fitness content.
-- partner with female influencers in sports and outdoor activites, using headlines like "Effortless Bike Transportation" to appeal to women.
+- Partner with female influencers in sports and outdoor activites, using headlines like "Effortless Bike Transportation" to appeal to women.
 
 #### General Social Media Strategy
 - Develop engaging video content demonstratng how to use bike racks, addressing common concern for different demographics.
@@ -208,11 +208,11 @@ A line chart was used to analyze sale trend over the months, highlighting peak a
 - Despict slight variation in regions and years, the pattern consistently identifies June and May as the top performing months.
 
 #### Recommendation
-#### Inventory Management
-- Peak Seasons: Increase inventory during high demand month to meet customers needs and avoid lost sales.
-- Low Seasons: Reduce inventory during low demand month to avoid overstocking and loss.
-#### Marketing Strategy
-- organizing promotional campaing during holidays and cycling season to boost sales.
+- Inventory Management
+     - Peak Seasons: Increase inventory during high demand month to meet customers needs and avoid lost sales.
+     - Low Seasons: Reduce inventory during low demand month to avoid overstocking and loss.
+- Marketing Strategy
+     - organizing promotional campaing during holidays and cycling season to boost sales.
 #### Key Takeaway
 Understanding sales seasonality is crucial for inventory planning and markerting strategies. By preparing for peak periods and optimizing inventory throughout the year business can enhance profitability and customer satisfaction. 
 
