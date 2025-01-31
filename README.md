@@ -129,8 +129,6 @@ England and it generates a total revenue of $49,080.
     - Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
 
 
-![image](https://github.com/user-attachments/assets/c8128e08-285e-4933-acfd-9c5612026014)
-
 ### Inference
 #### Adults customers
 - Adults purchase more due to their finacial stability and disposable income, which allows them to invest in biking accessories like bike racks.
@@ -146,7 +144,7 @@ The male gender are more engaged in outdoor activities like cycling and require 
 #### Conclusion 
  - Male customers dominate with 13% higher patronage, reflecting their outdoor activity interest. 
  - Adult invest the most in bike racks for pratical and family-oriented use cases, recognizing their importances for outing and vacations.
- - The youth  demographics see less value in bike racks due to budget constraintsand limited need for transporting bikes.
+ - The youth  demographics see less value in bike racks due to budget constraints and limited need for transporting bikes.
 
 #### Recommendation 
 Based on marketing strategy to different age group and gender:
