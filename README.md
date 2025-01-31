@@ -68,9 +68,6 @@ Microsoft Excel
 
 1. #### Revenue Distribution by Region
 
-![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
-
-
 The United State generates the highest revenue followed by Canada, France, Australia, Germany and finally United Kingdom, which records the lowest revenue. 
 
 ##### State-Level Analysis
@@ -100,12 +97,10 @@ Bayern generates the higest revenue of $17,166 and Hamburg generates the lowest 
 England and it generates a total revenue of $49,080.
 
 
-![image](https://github.com/user-attachments/assets/889f4c82-7998-4b94-bf59-ba67572c624e)
-
 ### Inference:
 
-- California and British Columbia generate the most revenue, likely due to their strong focus on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
-- The high revenue in most regions suggest effective marketing strategies and stronge customer base.
+- California and British Columbia generate the most revenue, due to their strong focus on environmental sustainability, healthy lifestyle, outdoor activites and initiatives like bick rack to optimize parking spaces.
+- The high revenue in most regions shows effective marketing strategies and stronge customer base.
 - Also, lower revenue in Kentucky and Loir et Cher shows poor market penetration,weaker customers bases and ineffective strategies.
 
 ### Conculsion
@@ -115,19 +110,23 @@ England and it generates a total revenue of $49,080.
 
 ### Recommendation
 
-- Boost Investment: More resources should be focused on high performing regions to sustain growth and further strengthen their market presence.
-- Market Research: Research should be thoroughly conducted in underperforming region  to identify and address issuses hindering growth.
-- Enhanced Marketing Effort: After thorough research identifying marketing strategy as the key issue, increased marketing efforts should be implemented in underperforming regions to improve visibility,enhance customer engagement and drive sales growth. 
-- Strategic Expansion: The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
+- Boost Investment:
+     - More resources should be focused on high performing regions to sustain growth and further strengthen their market presence.
+- Market Research:
+     - Research should be thoroughly conducted in underperforming region  to identify and address issuses hindering growth.
+- Enhanced Marketing Effort:
+     - After thorough research identifying marketing strategy as the key issue, increased marketing efforts should be implemented in underperforming regions to improve visibility,enhance customer engagement and drive sales growth. 
+- Strategic Expansion:
+     - The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
 
 
 2. ### Demographic by Age Group
------
-![image](https://github.com/user-attachments/assets/f924b98b-2c7c-4264-8b26-4d86867fad1b)
 
-- Age Group Appeal: The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
+- Age Group Appeal:
+    - The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
 
- - Gender Insight: Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
+ - Gender Insight:
+    - Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
 
 
 ![image](https://github.com/user-attachments/assets/c8128e08-285e-4933-acfd-9c5612026014)
