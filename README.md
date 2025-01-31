@@ -67,7 +67,7 @@ Microsoft Excel
      - The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
 
 1. #### Revenue Distribution by Region
------
+
 ![Screenshot 2024-12-10 145356](https://github.com/user-attachments/assets/42efb3af-d6d1-4fca-9186-da46741b7589)
 
 
