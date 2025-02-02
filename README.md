@@ -122,7 +122,7 @@ England and it generates a total revenue of $49,080.
 
 2. ### Demographic by Age Group
 
-
+https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Screenshot%202024-12-10%20145356.png
 
 - Age Group Appeal:
     - The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
