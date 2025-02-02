@@ -118,7 +118,7 @@ England and it generates a total revenue of $49,080.
      - After thorough research identifying marketing strategy as the key issue, increased marketing efforts should be implemented in underperforming regions to improve visibility,enhance customer engagement and drive sales growth. 
 - Strategic Expansion:
      - The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
-
+https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Screenshot%202024-12-10%20155524.png
 
 2. ### Demographic by Age Group
 
