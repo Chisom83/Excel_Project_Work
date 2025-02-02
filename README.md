@@ -13,6 +13,7 @@
 
 [Conclusion](#conclusion)
 
+
 ## Overview
 -----
 This project focuses on analyzing sales and marketing strategies for bike rack sales, with a strong emphasis on key metrics and specific business requirements. By leveraging data-driven insights, the aim is to provide well-informed, actionable strategies that enhance inventory management and boost overall sales. Through this analysis, we strive to uncover valuable trends and opportunities that will support more effective marketing and inventory decisions, ensuring sustained growth in bike rack sales.
@@ -118,11 +119,11 @@ England and it generates a total revenue of $49,080.
      - After thorough research identifying marketing strategy as the key issue, increased marketing efforts should be implemented in underperforming regions to improve visibility,enhance customer engagement and drive sales growth. 
 - Strategic Expansion:
      - The business should explore untapped markets in the United Kingdom to capitalize on their potential. 
-https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Screenshot%202024-12-10%20155524.png
+
 
 2. ### Demographic by Age Group
 
-https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Screenshot%202024-12-10%20145356.png
+
 
 - Age Group Appeal:
     - The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
