@@ -122,6 +122,8 @@ England and it generates a total revenue of $49,080.
 
 2. ### Demographic by Age Group
 
+
+
 - Age Group Appeal:
     - The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
 
