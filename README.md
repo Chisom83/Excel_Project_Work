@@ -151,17 +151,17 @@ England and it generates a total revenue of $49,080.
 
 
 2. ### Demographic by Age Group
+First I created a Pivot Table to organize and filter the data displaying the Age Group and Revenue column then applied filter to show only data relaed to Bike Racks Sales.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Age%20Cate.png" alt="Age group" width="500"> </div>
-
-
-<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Age.png" alt="Age group" width="500"> </div>
 
 - Age Group Appeal:
     - The product appeals primarily to adults, followed by young adults with the youth showing the less patronage.
 
  - Gender Insight:
     - Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
+
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Age.png" alt="Age group" width="500"> </div>
 
 
 ### Inference
