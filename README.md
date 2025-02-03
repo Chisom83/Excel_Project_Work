@@ -137,6 +137,9 @@ England and it generates a total revenue of $49,080.
 
 2. ### Demographic by Age Group
 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Age%20Cate.png" alt="Age group" width="500"> </div>
+
+
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Age.png" alt="Age group" width="500"> </div>
 
 - Age Group Appeal:
