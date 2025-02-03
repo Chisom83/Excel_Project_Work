@@ -183,7 +183,7 @@ Based on marketing strategy to different age group and gender:
 -----
 The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
 
- ![image](https://github.com/user-attachments/assets/bc7ab443-2f45-44e4-864c-8858d5b13638)
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Product%20Popu.png" alt="Product Pop" width="500"> </div>
 
  ### Inference
 - Hitch Rack 4 bike appals more to customers because it has the capacity to carry mutiple bikes, making it ideal for families who need solution for transporting their bikes effeciently.
