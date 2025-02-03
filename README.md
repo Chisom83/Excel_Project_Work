@@ -68,6 +68,8 @@ Microsoft Excel
 - Order Quantity
      - 1,342,327 units were solds over the same four-year period, demostrating a consistent sales performance.
  
+ <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Order.png" alt="Order Qty" width="500"> </div>
+ 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Qty.png" alt="Order Qty" width="500"> </div>
 
 - Total Profit
