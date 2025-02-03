@@ -74,8 +74,9 @@ Microsoft Excel
 
 - Total Profit
 
- 
-<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Profit.png"  alt="Total Profit" width="500"> </div>
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Profit.png" alt="Total Profit" width="500"> </div>
+
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Profit.png" alt="Total Profit" width="500"> </div>
 
   
      - The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
