@@ -160,7 +160,7 @@ First I created a Pivot Table to organize and filter the data displaying the Age
 
  - Gender Insight:
     - Male customers dominates in purchase, with a notable 13% higher patronage compared to females.
-
+- A pie chart was used to show the demography by Age group.
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Age.png" alt="Age group" width="500"> </div>
 
 
@@ -209,10 +209,12 @@ Based on marketing strategy to different age group and gender:
  Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
 3. ### Product Popularity
-
-The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
+- The pivot table shows all the sub category product in Bike Racks and the total revenue they generate.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Pro%20Pop.png" alt="Product Pop" width="500"> </div>
+
+- The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
+- A bar chart was used to show the product popularity.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Product%20Popu.png" alt="Product Pop" width="500"> </div>
 
@@ -232,13 +234,16 @@ The sales performance of the various bike racks models shows a significant diffe
 Hitch Rack 4 bike is the business most popular and profitable product and focusing more on inventory management and strategy that will derive sales and growth increase its popularity the more and also trying out new ways to improve sales and visibility of other models.
 
 4. ### Sales Seasonality
-
+- To analyze sales seasonality, I utilized a pivot table to
+     - display the month and total revenue generated 
+     - Apply a filter to focus specifically on bike rack sales.
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/S%20Season.png" alt="Product Pop" width="500"> </div>
+
+- The sales of bike racks vary across state and years, but the overall trend highlights June as the month with the higest sales, followed by May, March, September, July and other months while Apirl records the lowest sales. 
+A line chart was used to analyze sale trend over the months, highlighting peak and off-peak periods.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Sales%20Seas.png" alt="Product Pop" width="700"> </div>
    
-The sales of bike racks vary across state and years, but the overall trend highlights June as the month with the higest sales, followed by May, March, September, July and other months while Apirl records the lowest sales. 
-A line chart was used to analyze sale trend over the months, highlighting peak and off-peak periods.
 
 #### Inference 
 - High sales in spring and summer alings with holiday and favourable weather, which encourages outdoor activites like cycling.
