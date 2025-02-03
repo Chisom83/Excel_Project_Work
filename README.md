@@ -61,8 +61,11 @@ Microsoft Excel
 "To explore the dataset, I utilize a pivtot table to summarize the KPI and Business Requirement which was then transformed into a chart for better clarity and presentation."
 ### Key Performance Indicators (kPIs)
 - Total Revenue
-
-<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Total%20Revenue%20(2).png" alt="Total Revenue" width="500"> </div>
+- To achieve this analysis, I utilize a pivot table
+  
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Total%20Revenue%20(2).png" alt="Total Revenue" width="500"> </div>    
+   
+- The store generated a total revenue of $101,720,343, representing the cumulative value of all goods sold in the store over a four-year period.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Rev.png" alt="Total Revenue" width="500"> </div>
    
