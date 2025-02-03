@@ -83,6 +83,7 @@ Microsoft Excel
 
 1. #### Revenue Distribution by Region
 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/R%20by%20Region.png" alt="Revenue Region" width="500"> </div>
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Revenue%20Region.png" alt="Revenue Region" width="500"> </div>
 
