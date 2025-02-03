@@ -65,6 +65,11 @@ Microsoft Excel
 - Order Quantity
      - 1,342,327 units were solds over the same four-year period, demostrating a consistent sales performance.
 - Total Profit
+
+ 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Profit.png"  alt="Total Profit" width="500"> </div>
+
+  
      - The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
 
 1. #### Revenue Distribution by Region
