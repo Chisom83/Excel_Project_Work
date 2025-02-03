@@ -222,6 +222,8 @@ Understanding sales seasonality is crucial for inventory planning and markerting
 ## Dashboard
 This interactive dashboard consolidates all the visuals and enabled effective analysis of the business pain point.
 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Dashboard.png" alt="Dashboard" width="1000"> </div>
+
 ## Conclusion
 This projects analyze bike rack sales data that uncover key insights and provide actionable recommendations to address business problem. The analysis help in data-driven decisions-making, fostering business growth and operational efficiency.
 
