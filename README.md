@@ -69,6 +69,9 @@ Microsoft Excel
 
 1. #### Revenue Distribution by Region
 
+
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Revenue%20Region.png" alt="Revenue Region" width="500"> </div>
+
 The United State generates the highest revenue followed by Canada, France, Australia, Germany and finally United Kingdom, which records the lowest revenue. 
 
 ##### State-Level Analysis
