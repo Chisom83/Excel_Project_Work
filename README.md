@@ -64,6 +64,9 @@ Microsoft Excel
      - The store generated a total revenue of $101,720,343, representing the cumulative value of all goods sold in the store over a four-year period.
 - Order Quantity
      - 1,342,327 units were solds over the same four-year period, demostrating a consistent sales performance.
+ 
+<div aling="center"> <img src=  "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Qty.png" alt="Order Qty" width="500"> </div>
+
 - Total Profit
 
  
