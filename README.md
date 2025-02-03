@@ -222,6 +222,8 @@ Hitch Rack 4 bike is the business most popular and profitable product and focusi
 
 4. ### Sales Seasonality
 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/S%20Season.png" alt="Product Pop" width="500"> </div>
+
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Sales%20Seas.png" alt="Product Pop" width="700"> </div>
    
 The sales of bike racks vary across state and years, but the overall trend highlights June as the month with the higest sales, followed by May, March, September, July and other months while Apirl records the lowest sales. 
