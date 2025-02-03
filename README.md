@@ -60,39 +60,45 @@ Microsoft Excel
 ## Data Visualization and Insights
 "To explore the dataset, I utilize a pivtot table to summarize the KPI and Business Requirement which was then transformed into a chart for better clarity and presentation."
 ### Key Performance Indicators (kPIs)
-- Total Revenue
+#### Total Revenue
 - To achieve this analysis, I utilize a pivot table
   
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Total%20Revenue%20(2).png" alt="Total Revenue" width="500"> </div>    
+
    
 - The store generated a total revenue of $101,720,343, representing the cumulative value of all goods sold in the store over a four-year period.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Rev.png" alt="Total Revenue" width="500"> </div>
    
-     - The store generated a total revenue of $101,720,343, representing the cumulative value of all goods sold in the store over a four-year period.
-- Order Quantity
-     - 1,342,327 units were solds over the same four-year period, demostrating a consistent sales performance.
- 
- <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Order.png" alt="Order Qty" width="500"> </div>
+     
+#### Order Quantity
+- The pivot table
+  <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Order.png" alt="Order Qty" width="500"> </div>
+  
+- 1,342,327 units were solds over the same four-year period, demostrating a consistent sales performance.
  
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Qty.png" alt="Order Qty" width="500"> </div>
 
-- Total Profit
+#### Total Profit
+- Pivot Table
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Profit.png" alt="Total Profit" width="500"> </div>
 
+  
+- The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
+  
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Profit.png" alt="Total Profit" width="500"> </div>
 
   
-     - The store recorded a total profit of $44,567,951, reflecting a healthy and sustainable profit margin after all expenses.
-
 1. #### Revenue Distribution by Region
 
+- To achieve this analysis, I first created a Pivot Table to organize and filter the data displaying the country and revenue column then applied filter to show only data relaed to Bike Racks Sales. 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/R%20by%20Region.png" alt="Revenue Region" width="500"> </div>
+
+- The United State generates the highest revenue followed by Canada, France, Australia, Germany and finally United Kingdom, which records the lowest revenue. 
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Revenue%20Region.png" alt="Revenue Region" width="500"> </div>
 
-The United State generates the highest revenue followed by Canada, France, Australia, Germany and finally United Kingdom, which records the lowest revenue. 
 
 ##### State-Level Analysis
 
