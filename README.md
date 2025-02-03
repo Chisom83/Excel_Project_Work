@@ -180,7 +180,7 @@ Based on marketing strategy to different age group and gender:
  Social media platforms are essential for reaching diverse demographics. Tailored marketing strategies with captivating content and video demonstration can effectively drive sales and customer engagement across all groups.
 
 3. ### Product Popularity
------
+
 The sales performance of the various bike racks models shows a significant differences in popularity, where Hitch Rack-4-bike leads with the higest sales volume, followed by Road-250 Red,44, Road-350-W Yellow,44, Road 250 Black,52, Road-550-W-Yellow,38, Road-650 Black,52, with Road 650 Red,44 recording the lowest sales.
 
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Product%20Popu.png" alt="Product Pop" width="500"> </div>
@@ -201,7 +201,9 @@ The sales performance of the various bike racks models shows a significant diffe
 Hitch Rack 4 bike is the business most popular and profitable product and focusing more on inventory management and strategy that will derive sales and growth increase its popularity the more and also trying out new ways to improve sales and visibility of other models.
 
 4. ### Sales Seasonality
-------
+
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Sales%20Seas.png" alt="Product Pop" width="700"> </div>
+   
 The sales of bike racks vary across state and years, but the overall trend highlights June as the month with the higest sales, followed by May, March, September, July and other months while Apirl records the lowest sales. 
 A line chart was used to analyze sale trend over the months, highlighting peak and off-peak periods.
 
