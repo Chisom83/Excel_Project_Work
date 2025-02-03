@@ -62,6 +62,8 @@ Microsoft Excel
 ### Key Performance Indicators (kPIs)
 - Total Revenue
 
+<div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Pivot/Total%20Revenue%20(2).png" alt="Total Revenue" width="500"> </div>
+
 <div aling="center"> <img src= "https://github.com/Chisom83/Spital-Lab-Class-Documentation/blob/main/Image/Total%20Rev.png" alt="Total Revenue" width="500"> </div>
    
      - The store generated a total revenue of $101,720,343, representing the cumulative value of all goods sold in the store over a four-year period.
