@@ -3,15 +3,13 @@
 ## Table of Content
 [Overview](#overview)
 
-[Objectives](#objectives)
-
 [Data Source](#data-source)
 
 [Data Visualization and Insights](#data-visualization-and-insights)
 
 [Dashboard](#dashboard)
 
-[Conclusion](#conclusion)
+
 
 
 ## Overview
